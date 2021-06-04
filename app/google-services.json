@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185131732067",
+    "project_id": "dailyquizz-fbe51",
+    "storage_bucket": "dailyquizz-fbe51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185131732067:android:74a4aad3faab656bff3c56",
+        "android_client_info": {
+          "package_name": "com.example.dailyquizz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185131732067-l3phtugctdhsq927ktorltlqp1udq1jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl4PwfXOciKIUdO2IOKbcVqORwDVu2TpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185131732067-l3phtugctdhsq927ktorltlqp1udq1jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
